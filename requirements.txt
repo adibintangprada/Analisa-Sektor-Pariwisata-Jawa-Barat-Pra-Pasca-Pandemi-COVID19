@@ -2,4 +2,3 @@ scipy
 streamlit
 pandas
 plotly
-turtle
