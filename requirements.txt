@@ -1,0 +1,6 @@
+scipy
+turtle
+streamlit
+pandas
+plotly.express
+plotly.io
